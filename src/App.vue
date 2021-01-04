@@ -53,9 +53,9 @@
               <a href="#book-a-table" class="btn-book animated fadeInUp scrollto">Book a Table</a>
             </div>
           </div>
-          <div class="col-lg-4 d-flex align-items-center justify-content-center" data-aos="zoom-in" data-aos-delay="200">
+          <!-- <div class="col-lg-4 d-flex align-items-center justify-content-center" data-aos="zoom-in" data-aos-delay="200">
             <a href="https://www.youtube.com/watch?v=GlrxcuEDyF8" class="venobox play-btn" data-vbtype="video" data-autoplay="true"></a>
-          </div>
+          </div> -->
 
         </div>
       </div>
@@ -70,7 +70,7 @@
           <div class="row">
             <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="100">
               <div class="about-img">
-                <img src="assets/img/about.jpg" alt="">
+                <img src="@/assets/img/about.jpg" alt="">
               </div>
             </div>
             <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
@@ -158,7 +158,7 @@
           <div class="row menu-container" data-aos="fade-up" data-aos-delay="200">
 
             <div class="col-lg-6 menu-item filter-starters">
-              <img src="assets/img/menu/lobster-bisque.jpg" class="menu-img" alt="">
+              <img src="@/assets/img/menu/lobster-bisque.jpg" class="menu-img" alt="">
               <div class="menu-content">
                 <a href="#">Lobster Bisque</a><span>$5.95</span>
               </div>
@@ -168,7 +168,7 @@
             </div>
 
             <div class="col-lg-6 menu-item filter-specialty">
-              <img src="assets/img/menu/bread-barrel.jpg" class="menu-img" alt="">
+              <img src="@/assets/img/menu/bread-barrel.jpg" class="menu-img" alt="">
               <div class="menu-content">
                 <a href="#">Bread Barrel</a><span>$6.95</span>
               </div>
@@ -178,7 +178,7 @@
             </div>
 
             <div class="col-lg-6 menu-item filter-starters">
-              <img src="assets/img/menu/cake.jpg" class="menu-img" alt="">
+              <img src="@/assets/img/menu/cake.jpg" class="menu-img" alt="">
               <div class="menu-content">
                 <a href="#">Crab Cake</a><span>$7.95</span>
               </div>
@@ -188,7 +188,7 @@
             </div>
 
             <div class="col-lg-6 menu-item filter-salads">
-              <img src="assets/img/menu/caesar.jpg" class="menu-img" alt="">
+              <img src="@/assets/img/menu/caesar.jpg" class="menu-img" alt="">
               <div class="menu-content">
                 <a href="#">Caesar Selections</a><span>$8.95</span>
               </div>
@@ -198,7 +198,7 @@
             </div>
 
             <div class="col-lg-6 menu-item filter-specialty">
-              <img src="assets/img/menu/tuscan-grilled.jpg" class="menu-img" alt="">
+              <img src="@/assets/img/menu/tuscan-grilled.jpg" class="menu-img" alt="">
               <div class="menu-content">
                 <a href="#">Tuscan Grilled</a><span>$9.95</span>
               </div>
@@ -208,7 +208,7 @@
             </div>
 
             <div class="col-lg-6 menu-item filter-starters">
-              <img src="assets/img/menu/mozzarella.jpg" class="menu-img" alt="">
+              <img src="@/assets/img/menu/mozzarella.jpg" class="menu-img" alt="">
               <div class="menu-content">
                 <a href="#">Mozzarella Stick</a><span>$4.95</span>
               </div>
@@ -218,7 +218,7 @@
             </div>
 
             <div class="col-lg-6 menu-item filter-salads">
-              <img src="assets/img/menu/greek-salad.jpg" class="menu-img" alt="">
+              <img src="@/assets/img/menu/greek-salad.jpg" class="menu-img" alt="">
               <div class="menu-content">
                 <a href="#">Greek Salad</a><span>$9.95</span>
               </div>
@@ -228,7 +228,7 @@
             </div>
 
             <div class="col-lg-6 menu-item filter-salads">
-              <img src="assets/img/menu/spinach-salad.jpg" class="menu-img" alt="">
+              <img src="@/assets/img/menu/spinach-salad.jpg" class="menu-img" alt="">
               <div class="menu-content">
                 <a href="#">Spinach Salad</a><span>$9.95</span>
               </div>
@@ -238,7 +238,7 @@
             </div>
 
             <div class="col-lg-6 menu-item filter-specialty">
-              <img src="assets/img/menu/lobster-roll.jpg" class="menu-img" alt="">
+              <img src="@/assets/img/menu/lobster-roll.jpg" class="menu-img" alt="">
               <div class="menu-content">
                 <a href="#">Lobster Roll</a><span>$12.95</span>
               </div>
@@ -291,7 +291,7 @@
                       <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
                     </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
-                      <img src="assets/img/specials-1.png" alt="" class="img-fluid">
+                      <img src="@/assets/img/specials-1.png" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
@@ -303,7 +303,7 @@
                       <p>Ea ipsum voluptatem consequatur quis est. Illum error ullam omnis quia et reiciendis sunt sunt est. Non aliquid repellendus itaque accusamus eius et velit ipsa voluptates. Optio nesciunt eaque beatae accusamus lerode pakto madirna desera vafle de nideran pal</p>
                     </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
-                      <img src="assets/img/specials-2.png" alt="" class="img-fluid">
+                      <img src="@/assets/img/specials-2.png" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
@@ -315,7 +315,7 @@
                       <p>Iure officiis odit rerum. Harum sequi eum illum corrupti culpa veritatis quisquam. Neque necessitatibus illo rerum eum ut. Commodi ipsam minima molestiae sed laboriosam a iste odio. Earum odit nesciunt fugiat sit ullam. Soluta et harum voluptatem optio quae</p>
                     </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
-                      <img src="assets/img/specials-3.png" alt="" class="img-fluid">
+                      <img src="@/assets/img/specials-3.png" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
@@ -327,7 +327,7 @@
                       <p>Eaque consequuntur consequuntur libero expedita in voluptas. Nostrum ipsam necessitatibus aliquam fugiat debitis quis velit. Eum ex maxime error in consequatur corporis atque. Eligendi asperiores sed qui veritatis aperiam quia a laborum inventore</p>
                     </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
-                      <img src="assets/img/specials-4.png" alt="" class="img-fluid">
+                      <img src="@/assets/img/specials-4.png" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
@@ -339,7 +339,7 @@
                       <p>Exercitationem nostrum omnis. Ut reiciendis repudiandae minus. Omnis recusandae ut non quam ut quod eius qui. Ipsum quia odit vero atque qui quibusdam amet. Occaecati sed est sint aut vitae molestiae voluptate vel</p>
                     </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
-                      <img src="assets/img/specials-5.png" alt="" class="img-fluid">
+                      <img src="@/assets/img/specials-5.png" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
@@ -363,7 +363,7 @@
 
             <div class="row event-item">
               <div class="col-lg-6">
-                <img src="assets/img/event-birthday.jpg" class="img-fluid" alt="">
+                <img src="@/assets/img/event-birthday.jpg" class="img-fluid" alt="">
               </div>
               <div class="col-lg-6 pt-4 pt-lg-0 content">
                 <h3>Birthday Parties</h3>
@@ -388,7 +388,7 @@
 
             <div class="row event-item">
               <div class="col-lg-6">
-                <img src="assets/img/event-private.jpg" class="img-fluid" alt="">
+                <img src="@/assets/img/event-private.jpg" class="img-fluid" alt="">
               </div>
               <div class="col-lg-6 pt-4 pt-lg-0 content">
                 <h3>Private Parties</h3>
@@ -413,7 +413,7 @@
 
             <div class="row event-item">
               <div class="col-lg-6">
-                <img src="assets/img/event-custom.jpg" class="img-fluid" alt="">
+                <img src="@/assets/img/event-custom.jpg" class="img-fluid" alt="">
               </div>
               <div class="col-lg-6 pt-4 pt-lg-0 content">
                 <h3>Custom Parties</h3>
@@ -509,7 +509,7 @@
                 Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
-              <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+              <img src="@/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
               <h3>Saul Goodman</h3>
               <h4>Ceo &amp; Founder</h4>
             </div>
@@ -520,7 +520,7 @@
                 Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
-              <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+              <img src="@/assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
               <h3>Sara Wilsson</h3>
               <h4>Designer</h4>
             </div>
@@ -531,7 +531,7 @@
                 Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
-              <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+              <img src="@/assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
               <h3>Jena Karlis</h3>
               <h4>Store Owner</h4>
             </div>
@@ -542,7 +542,7 @@
                 Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
-              <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+              <img src="@/assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
               <h3>Matt Brandon</h3>
               <h4>Freelancer</h4>
             </div>
@@ -553,7 +553,7 @@
                 Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
-              <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+              <img src="@/assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
               <h3>John Larson</h3>
               <h4>Entrepreneur</h4>
             </div>
@@ -579,64 +579,64 @@
 
             <div class="col-lg-3 col-md-4">
               <div class="gallery-item">
-                <a href="assets/img/gallery/gallery-1.jpg" class="venobox" data-gall="gallery-item">
-                  <img src="assets/img/gallery/gallery-1.jpg" alt="" class="img-fluid">
+                <a href="@/assets/img/gallery/gallery-1.jpg" class="venobox" data-gall="gallery-item">
+                  <img src="@/assets/img/gallery/gallery-1.jpg" alt="" class="img-fluid">
                 </a>
               </div>
             </div>
 
             <div class="col-lg-3 col-md-4">
               <div class="gallery-item">
-                <a href="assets/img/gallery/gallery-2.jpg" class="venobox" data-gall="gallery-item">
-                  <img src="assets/img/gallery/gallery-2.jpg" alt="" class="img-fluid">
+                <a href="@/assets/img/gallery/gallery-2.jpg" class="venobox" data-gall="gallery-item">
+                  <img src="@/assets/img/gallery/gallery-2.jpg" alt="" class="img-fluid">
                 </a>
               </div>
             </div>
 
             <div class="col-lg-3 col-md-4">
               <div class="gallery-item">
-                <a href="assets/img/gallery/gallery-3.jpg" class="venobox" data-gall="gallery-item">
-                  <img src="assets/img/gallery/gallery-3.jpg" alt="" class="img-fluid">
+                <a href="@/assets/img/gallery/gallery-3.jpg" class="venobox" data-gall="gallery-item">
+                  <img src="@/assets/img/gallery/gallery-3.jpg" alt="" class="img-fluid">
                 </a>
               </div>
             </div>
 
             <div class="col-lg-3 col-md-4">
               <div class="gallery-item">
-                <a href="assets/img/gallery/gallery-4.jpg" class="venobox" data-gall="gallery-item">
-                  <img src="assets/img/gallery/gallery-4.jpg" alt="" class="img-fluid">
+                <a href="@/assets/img/gallery/gallery-4.jpg" class="venobox" data-gall="gallery-item">
+                  <img src="@/assets/img/gallery/gallery-4.jpg" alt="" class="img-fluid">
                 </a>
               </div>
             </div>
 
             <div class="col-lg-3 col-md-4">
               <div class="gallery-item">
-                <a href="assets/img/gallery/gallery-5.jpg" class="venobox" data-gall="gallery-item">
-                  <img src="assets/img/gallery/gallery-5.jpg" alt="" class="img-fluid">
+                <a href="@/assets/img/gallery/gallery-5.jpg" class="venobox" data-gall="gallery-item">
+                  <img src="@/assets/img/gallery/gallery-5.jpg" alt="" class="img-fluid">
                 </a>
               </div>
             </div>
 
             <div class="col-lg-3 col-md-4">
               <div class="gallery-item">
-                <a href="assets/img/gallery/gallery-6.jpg" class="venobox" data-gall="gallery-item">
-                  <img src="assets/img/gallery/gallery-6.jpg" alt="" class="img-fluid">
+                <a href="@/assets/img/gallery/gallery-6.jpg" class="venobox" data-gall="gallery-item">
+                  <img src="@/assets/img/gallery/gallery-6.jpg" alt="" class="img-fluid">
                 </a>
               </div>
             </div>
 
             <div class="col-lg-3 col-md-4">
               <div class="gallery-item">
-                <a href="assets/img/gallery/gallery-7.jpg" class="venobox" data-gall="gallery-item">
-                  <img src="assets/img/gallery/gallery-7.jpg" alt="" class="img-fluid">
+                <a href="@/assets/img/gallery/gallery-7.jpg" class="venobox" data-gall="gallery-item">
+                  <img src="@/assets/img/gallery/gallery-7.jpg" alt="" class="img-fluid">
                 </a>
               </div>
             </div>
 
             <div class="col-lg-3 col-md-4">
               <div class="gallery-item">
-                <a href="assets/img/gallery/gallery-8.jpg" class="venobox" data-gall="gallery-item">
-                  <img src="assets/img/gallery/gallery-8.jpg" alt="" class="img-fluid">
+                <a href="@/assets/img/gallery/gallery-8.jpg" class="venobox" data-gall="gallery-item">
+                  <img src="@/assets/img/gallery/gallery-8.jpg" alt="" class="img-fluid">
                 </a>
               </div>
             </div>
@@ -659,7 +659,7 @@
 
             <div class="col-lg-4 col-md-6">
               <div class="member" data-aos="zoom-in" data-aos-delay="100">
-                <img src="assets/img/chefs/chefs-1.jpg" class="img-fluid" alt="">
+                <img src="@/assets/img/chefs/chefs-1.jpg" class="img-fluid" alt="">
                 <div class="member-info">
                   <div class="member-info-content">
                     <h4>Walter White</h4>
@@ -677,7 +677,7 @@
 
             <div class="col-lg-4 col-md-6">
               <div class="member" data-aos="zoom-in" data-aos-delay="200">
-                <img src="assets/img/chefs/chefs-2.jpg" class="img-fluid" alt="">
+                <img src="@/assets/img/chefs/chefs-2.jpg" class="img-fluid" alt="">
                 <div class="member-info">
                   <div class="member-info-content">
                     <h4>Sarah Jhonson</h4>
@@ -695,7 +695,7 @@
 
             <div class="col-lg-4 col-md-6">
               <div class="member" data-aos="zoom-in" data-aos-delay="300">
-                <img src="assets/img/chefs/chefs-3.jpg" class="img-fluid" alt="">
+                <img src="@/assets/img/chefs/chefs-3.jpg" class="img-fluid" alt="">
                 <div class="member-info">
                   <div class="member-info-content">
                     <h4>William Anderson</h4>
@@ -893,13 +893,5 @@ export default {
 }
 </script>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
+
+
